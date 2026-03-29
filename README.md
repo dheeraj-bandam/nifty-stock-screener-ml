@@ -82,4 +82,4 @@ streamlit run dashboard/app.py
 ## Author
 
 **Dheeraj Bandam** — MBA (Business Analytics), IIM Amritsar  
-[LinkedIn](https://linkedin.com/in/dheerajbandam) · [Email](mailto:dheerajbandam@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/dheeraj-bandam-73386b24a/) · [Email](mailto:dheerajbandam@gmail.com)
